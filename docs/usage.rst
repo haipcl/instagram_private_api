@@ -10,19 +10,19 @@ Install via pip
 
 .. code-block:: bash
 
-    $ pip install git+https://git@github.com/ping/instagram_private_api.git@1.6.0
+    $ pip install git+https://git@github.com/haipcl/instagram_private_api.git@1.6.1
 
 Update your install with the latest release
 
 .. code-block:: bash
 
-    $ pip install git+https://git@github.com/ping/instagram_private_api.git@1.6.0 --upgrade
+    $ pip install git+https://git@github.com/haipcl/instagram_private_api.git@1.6.1 --upgrade
 
 Force an update from source
 
 .. code-block:: bash
 
-    $ pip install git+https://git@github.com/ping/instagram_private_api.git --upgrade --force-reinstall
+    $ pip install git+https://git@github.com/haipcl/instagram_private_api.git --upgrade --force-reinstall
 
 
 Source Code
@@ -32,7 +32,7 @@ The library is maintained on GitHub. Feel free to clone the repository.
 
 .. code-block:: bash
 
-    git clone git://github.com/ping/instagram_private_api.git
+    git clone git://github.com/haipcl/instagram_private_api.git
 
 
 Usage

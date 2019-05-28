@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.6.1
+- Web API:
+    * Fixed missing rhx_gis issue.
+
 ## 1.6.0
 - Web API:
     * Add ``highlight_reels()`` and ``highlight_reel_media()``
